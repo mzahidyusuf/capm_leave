@@ -2,7 +2,8 @@
   "name": "capm_leave",
   "version": "1.0.0",
   "type": "module",
-  "dependencies": {
+  "dependencies": 
+  {
     "@sap/cds": "^10"
   },
   "devDependencies": {
