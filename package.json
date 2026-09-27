@@ -2,12 +2,10 @@
   "name": "capm_leave",
   "version": "1.0.0",
   "type": "module",
-  "dependencies": 
-  {
+  "dependencies":  {
     "@sap/cds": "^10"
   },
-  "devDependencies": 
-  {
+  "devDependencies": {
     "@cap-js/sqlite": "^3"
   },
   "scripts": {
